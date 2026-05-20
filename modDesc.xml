@@ -8,42 +8,42 @@
     </title>
     
     <description>
-        <en><![CDATA[
-        Global Lime Sprayers is a lightweight script that dynamically adds LIME as a valid fill type to all standard and modded liquid sprayers. 
+<en><![CDATA[
+Global Lime Sprayers is a lightweight script that dynamically adds LIME as a valid fill type to all standard and modded liquid sprayers. 
 
-        Features:
-        - Universal Compatibility: Works seamlessly with base game sprayers and the vast majority of ModHub sprayers.
-        - Auto-Applying Visuals: Leverages the base game engine to automatically apply the default lime dust particle effects to boom nozzles.
-        - Two-Layer System: Injects lime into the base game sprayer category, and actively bypasses hardcoded modded sprayers to force lime compatibility.
-        - Clean & Efficient: Contains no extra 3D models or textures, running entirely in the background.
+Features:
+- Universal Compatibility: Works seamlessly with base game sprayers and the vast majority of ModHub sprayers.
+- Auto-Applying Visuals: Leverages the base game engine to automatically apply the default lime dust particle effects to boom nozzles.
+- Two-Layer System: Injects lime into the base game sprayer category, and actively bypasses hardcoded modded sprayers to force lime compatibility.
+- Clean & Efficient: Contains no extra 3D models or textures, running entirely in the background.
 
-        Make lime application universal without ever having to edit individual vehicle XML files!
-        ]]></en>
-        <de><![CDATA[
-        Global Lime Sprayers ist ein leichtes Skript, das KALK dynamisch als gültigen Fülltyp zu allen Standard- und gemoddeten Flüssigspritzen hinzufügt.
+Make lime application universal without ever having to edit individual vehicle XML files!
+]]></en>
+<de><![CDATA[
+Global Lime Sprayers ist ein leichtes Skript, das KALK dynamisch als gültigen Fülltyp zu allen Standard- und gemoddeten Flüssigspritzen hinzufügt.
 
-        Eigenschaften:
-        - Universelle Kompatibilität: Funktioniert nahtlos mit Spritzen des Basisspiels und der großen Mehrheit der ModHub-Spritzen.
-        - Automatische visuelle Effekte: Nutzt die Basis-Engine des Spiels, um automatisch die Standard-Kalkstaub-Partikeleffekte auf die Gestängedüsen anzuwenden.
-        - Zwei-Schichten-System: Injiziert Kalk in die Spritzen-Kategorie des Basisspiels und umgeht aktiv fest codierte modifizierte Spritzen, um die Kalkkompatibilität zu erzwingen.
-        - Sauber & Effizient: Enthält keine zusätzlichen 3D-Modelle oder Texturen und läuft vollständig im Hintergrund.
+Eigenschaften:
+- Universelle Kompatibilität: Funktioniert nahtlos mit Spritzen des Basisspiels und der großen Mehrheit der ModHub-Spritzen.
+- Automatische visuelle Effekte: Nutzt die Basis-Engine des Spiels, um automatisch die Standard-Kalkstaub-Partikeleffekte auf die Gestängedüsen anzuwenden.
+- Zwei-Schichten-System: Injiziert Kalk in die Spritzen-Kategorie des Basisspiels und umgeht aktiv fest codierte modifizierte Spritzen, um die Kalkkompatibilität zu erzwingen.
+- Sauber & Effizient: Enthält keine zusätzlichen 3D-Modelle oder Texturen und läuft vollständig im Hintergrund.
 
-        Mache die Kalkausbringung universell, ohne jemals einzelne Fahrzeug-XML-Dateien bearbeiten zu müssen!
-        ]]></de>
-        <fr><![CDATA[
-        Global Lime Sprayers est un script léger qui ajoute dynamiquement de la CHAUX comme type de remplissage valide à tous les pulvérisateurs de liquides standard et moddés.
+Mache die Kalkausbringung universell, ohne jemals einzelne Fahrzeug-XML-Dateien bearbeiten zu müssen!
+]]></de>
+<fr><![CDATA[
+Global Lime Sprayers est un script léger qui ajoute dynamiquement de la CHAUX comme type de remplissage valide à tous les pulvérisateurs de liquides standard et moddés.
 
-        Caractéristiques :
-        - Compatibilité universelle : Fonctionne parfaitement avec les pulvérisateurs du jeu de base et la grande majorité des pulvérisateurs du ModHub.
-        - Visuels automatiques : Utilise le moteur du jeu de base pour appliquer automatiquement les effets de particules de poussière de chaux par défaut aux buses des rampes.
-        - Système à deux couches : Injecte de la chaux dans la catégorie des pulvérisateurs du jeu de base et contourne activement les pulvérisateurs moddés codés en dur pour forcer la compatibilité avec la chaux.
-        - Propre et efficace : Ne contient aucun modèle 3D ni texture supplémentaire, fonctionnant entièrement en arrière-plan.
+Caractéristiques :
+- Compatibilité universelle : Fonctionne parfaitement avec les pulvérisateurs du jeu de base et la grande majorité des pulvérisateurs du ModHub.
+- Visuels automatiques : Utilise le moteur du jeu de base pour appliquer automatiquement les effets de particules de poussière de chaux par défaut aux buses des rampes.
+- Système à deux couches : Injecte de la chaux dans la catégorie des pulvérisateurs du jeu de base et contourne activement les pulvérisateurs moddés codés en dur pour forcer la compatibilité avec la chaux.
+- Propre et efficace : Ne contient aucun modèle 3D ni texture supplémentaire, fonctionnant entièrement en arrière-plan.
 
-        Rendez l'application de chaux universelle sans jamais avoir à modifier les fichiers XML individuels des véhicules !
-        ]]></fr>
+Rendez l'application de chaux universelle sans jamais avoir à modifier les fichiers XML individuels des véhicules !
+]]></fr>
     </description>
     
-    <iconFilename>icon_Global_Lime_FS25.dds</iconFilename>
+    <iconFilename>icon_lime_sprayers.dds</iconFilename>
     <multiplayer supported="true" />
     
     <extraSourceFiles>
