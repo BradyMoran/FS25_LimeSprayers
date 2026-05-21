@@ -4,12 +4,12 @@
     <version>1.0.0.0</version>
     
     <title>
-        <en>Lime Sprayers</en>
+        <en>Sprayers Apply Lime</en>
     </title>
     
     <description>
 <en><![CDATA[
-Global Lime Sprayers is a lightweight script that dynamically adds LIME as a valid fill type to all standard and modded liquid sprayers. 
+Sprayers Apply Lime is a lightweight script that dynamically adds LIME as a valid fill type to all standard and modded liquid sprayers. 
 
 Features:
 - Universal Compatibility: Works seamlessly with base game sprayers and the vast majority of ModHub sprayers.
@@ -20,7 +20,7 @@ Features:
 Make lime application universal without ever having to edit individual vehicle XML files!
 ]]></en>
 <de><![CDATA[
-Global Lime Sprayers ist ein leichtes Skript, das KALK dynamisch als gültigen Fülltyp zu allen Standard- und gemoddeten Flüssigspritzen hinzufügt.
+Sprayers Apply Lime ist ein leichtes Skript, das KALK dynamisch als gültigen Fülltyp zu allen Standard- und gemoddeten Flüssigspritzen hinzufügt.
 
 Eigenschaften:
 - Universelle Kompatibilität: Funktioniert nahtlos mit Spritzen des Basisspiels und der großen Mehrheit der ModHub-Spritzen.
@@ -31,7 +31,7 @@ Eigenschaften:
 Mache die Kalkausbringung universell, ohne jemals einzelne Fahrzeug-XML-Dateien bearbeiten zu müssen!
 ]]></de>
 <fr><![CDATA[
-Global Lime Sprayers est un script léger qui ajoute dynamiquement de la CHAUX comme type de remplissage valide à tous les pulvérisateurs de liquides standard et moddés.
+Sprayers Apply Lime est un script léger qui ajoute dynamiquement de la CHAUX comme type de remplissage valide à tous les pulvérisateurs de liquides standard et moddés.
 
 Caractéristiques :
 - Compatibilité universelle : Fonctionne parfaitement avec les pulvérisateurs du jeu de base et la grande majorité des pulvérisateurs du ModHub.

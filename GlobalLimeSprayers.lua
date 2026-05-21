@@ -16,7 +16,7 @@ function GlobalLimeSprayers:loadMap(name)
     if limeType ~= nil then
         -- LAYER 1: Add to global category
         g_fillTypeManager:addFillTypeToCategory(limeType.index, "SPRAYER")
-        print("--> GlobalLimeSprayers: LIME added to global SPRAYER category.")
+        print("--> Sprayers Apply Lime: LIME added to global SPRAYER category.")
 
        -- ==========================================
         -- LAYER 3: Fix the Shop UI
@@ -57,7 +57,7 @@ function GlobalLimeSprayers:loadMap(name)
                     end
                 end
             end
-            print("--> GlobalLimeSprayers: Shop UI update check complete.")
+            print("--> Sprayers Apply Lime: Shop UI update check complete.")
         end
     end
 end

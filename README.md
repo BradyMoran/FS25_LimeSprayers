@@ -1,7 +1,7 @@
-# FS25 Global Lime Sprayers
+# FS25 Sprayers Apply Lime
 
 ## Overview
-**Global Lime Sprayers** is a lightweight, script-based mod for Farming Simulator 25 that dynamically adds **LIME** as a valid fill type to all standard and modded liquid sprayers. Instead of manually editing XML files for every individual sprayer, this mod uses a global Lua injection to make lime application seamless and universal.
+**Sprayers Apply Lime** is a lightweight, script-based mod for Farming Simulator 25 that dynamically adds **LIME** as a valid fill type to all standard and modded liquid sprayers. Instead of manually editing XML files for every individual sprayer, this mod uses a global Lua injection to make lime application seamless and universal.
 
 ## Features
 * **Universal Compatibility:** Works with both base game sprayers and the vast majority of ModHub sprayers.
@@ -12,7 +12,7 @@
 ## Installation
 1. Download the `FS25_GlobalLimeSprayers.zip` file.
 2. Move the `.zip` file into your Farming Simulator 25 mods folder (usually located at `Documents/My Games/FarmingSimulator2025/mods/`).
-3. Launch the game, start your savegame, and ensure **Global Lime Sprayers** is checked in the mod selection screen.
+3. Launch the game, start your savegame, and ensure **Sprayers Apply Lime** is checked in the mod selection screen.
 
 ## Compatibility & Limitations
 * **Multiplayer/Dedicated Servers:** Fully supported.
